@@ -1,6 +1,6 @@
 # UltimateBlockBreakerFighter
 
-## Creaters: [Giovanni](https://github.com/Giojoe10) and [Juan](https://github.com/Giojoe10)
+## Creators: [Giovanni](https://github.com/Giojoe10) and [Juan](https://github.com/Giojoe10)
 
 This is a repository for a local multiplayer Block Breaker game for two players with score system.
 
